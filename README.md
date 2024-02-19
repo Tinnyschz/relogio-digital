@@ -1,3 +1,5 @@
-# 📋 Projeto de relógio digital simples
+# 📋 Projeto de relógio digital 
 
-Este projeto foi feito com fins de colocar estudos teóricos em prática.
+🕗Relógio digital simples, feito com HTML, CSS e Javascript. Este projeto foi feito com intuito de colocar estudos teóricos em prática.
+<br>
+🖥️ Para acessar o site da aplicação, [clique aqui](https://tinnyschz.github.io/relogio-digital/). 
